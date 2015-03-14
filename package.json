@@ -28,6 +28,7 @@
       "ecs-run-task",
       "ecs-list-tasks",
       "ecs-stop-task",
+      "ec2-describe-instances",
       "ecs-describe-container-instances"
     ]
   }
