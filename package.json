@@ -12,7 +12,8 @@
   ],
   "author": "",
   "license": "MIT",
-  "dependencies":{
+  "dependencies": {
+    "aws-sdk": "^2.1.17",
     "machine": "^3.0.0"
   },
   "devDependencies": {
