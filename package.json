@@ -24,7 +24,8 @@
     "machineDir": "machines/",
     "machines": [
       "ecs-register-task-definition",
-      "ecs-list-task-definitions"
+      "ecs-list-task-definitions",
+      "ecs-run-task"
     ]
   }
 }
