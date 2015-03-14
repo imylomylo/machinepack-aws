@@ -22,6 +22,9 @@
   "machinepack": {
     "friendlyName": "aws",
     "machineDir": "machines/",
-    "machines": []
+    "machines": [
+      "ecs-register-task-definition",
+      "ecs-list-task-definitions"
+    ]
   }
 }
