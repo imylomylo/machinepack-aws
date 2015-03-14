@@ -1,0 +1,10 @@
+{
+  "machine": "ec2-describe-instances",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}

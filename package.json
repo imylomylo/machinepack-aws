@@ -30,6 +30,11 @@
       "ecs-stop-task",
       "ec2-describe-instances",
       "ecs-describe-container-instances"
-    ]
+    ],
+    "testsUrl": "https://travis-ci.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
   }
 }

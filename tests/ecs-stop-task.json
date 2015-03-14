@@ -1,0 +1,10 @@
+{
+  "machine": "ecs-stop-task",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}

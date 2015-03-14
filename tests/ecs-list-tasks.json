@@ -1,0 +1,10 @@
+{
+  "machine": "ecs-list-tasks",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}

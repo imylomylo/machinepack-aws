@@ -1,4 +1,3 @@
-
 <h1>
   <a href="http://node-machine.org" title="Node-Machine public registry"><img alt="node-machine logo" title="Node-Machine Project" src="http://node-machine.org/images/machine-anthropomorph-for-white-bg.png" width="50" /></a>
   machinepack-aws
@@ -9,7 +8,7 @@
 SDK for working with the AWS api's
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-aws.svg)](http://badge.fury.io/js/machinepack-aws) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-aws.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-aws)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-aws.svg)](http://badge.fury.io/js/machinepack-aws) [![Build Status](https://travis-ci.org/particlebanana/machinepack-aws.png?branch=master)](https://travis-ci.org/particlebanana/machinepack-aws)
 
 ```sh
 $ npm install machinepack-aws
