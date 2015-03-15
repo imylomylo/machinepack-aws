@@ -64,6 +64,62 @@ module.exports = {
 
     success: {
       description: 'Done.',
+      example: {
+        Reservations: [{
+          ReservationId: 'r-7801b374',
+          OwnerId: '57s4f1824733',
+          Groups: [],
+          Instances: [{
+            InstanceId: 'i-783aff67',
+            ImageId: 'ami-4esc2a7d',
+            State: {
+              Code: 16,
+              Name: 'running'
+            },
+            PrivateDnsName: 'ip-10-0-0-9.us-west-2.compute.internal',
+            PublicDnsName: 'ec2-52-69-178-30.us-west-2.compute.amazonaws.com',
+            StateTransitionReason: '',
+            KeyName: 'MyKey',
+            AmiLaunchIndex: 0,
+            ProductCodes: [],
+            InstanceType: 'm3.xlarge',
+            LaunchTime: 'Sat Mar 14 2015 12:06:13 GMT-0700 (PDT)',
+            Placement: {
+              AvailabilityZone: 'us-west-2a',
+              GroupName: '',
+              Tenancy: 'default'
+            },
+            Monitoring: {
+              State: 'disabled'
+            },
+            SubnetId: 'subnet-530fa024',
+            VpcId: 'vpc-e7a81882',
+            PrivateIpAddress: '10.0.0.9',
+            PublicIpAddress: '51.65.162.12',
+            Architecture: 'x86_64',
+            RootDeviceType: 'ebs',
+            RootDeviceName: '/dev/xvda',
+            BlockDeviceMappings: [{
+              DeviceName: '/dev/xvda',
+              Ebs: {
+                VolumeId: 'vol-bfc810ad',
+                Status: 'attached',
+                AttachTime: 'Sat Mar 14 2015 12:06:15 GMT-0700 (PDT)',
+                DeleteOnTermination: true
+              }
+            }],
+            VirtualizationType: 'hvm',
+            ClientToken: 'sdhf3297rkdflksd',
+            Tags: [],
+            SecurityGroups: [{
+              GroupName: 'my_SG',
+              GroupId: 'sg-b30928jsdhfyf3'
+            }],
+            SourceDestCheck: true,
+            Hypervisor: 'xen',
+          }]
+        }]
+      }
     },
 
   },
