@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'ECS stop task',
+  friendlyName: 'Stop ECS task',
 
 
-  description: 'Stops a running task.',
+  description: 'Stop a running ECS task.',
 
 
   extendedDescription: '',

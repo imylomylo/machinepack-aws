@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'ECS register task definition',
+  friendlyName: 'Register ECS task definition',
 
 
-  description: 'A task definition is required to run an ECS task.',
+  description: 'Register a ECS task definition.',
 
 
   extendedDescription: '',

@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'ECS list task definitions',
+  friendlyName: 'List ECS task definitions',
 
 
-  description: 'Returns a list of task definitions that are registered to your account.',
+  description: 'Return a list of task definitions that are registered to your account.',
 
 
   extendedDescription: '',

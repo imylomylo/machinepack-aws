@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'ECS describe tasks',
+  friendlyName: 'Describe ECS tasks',
 
 
-  description: 'Describes a specified task or tasks.',
+  description: 'Describe a specified task or tasks.',
 
 
   extendedDescription: '',
