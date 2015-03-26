@@ -1,7 +1,7 @@
 module.exports = {
 
 
-  friendlyName: 'ECS run task',
+  friendlyName: 'Run ECS task',
 
 
   description: 'Start a task using random placement and the default Amazon ECS scheduler.',

@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'ECS describe container instances',
+  friendlyName: 'Describe ECS container instances',
 
 
-  description: 'Describes Amazon EC2 Container Service container instances',
+  description: 'Describe Amazon EC2 Container Service container instances',
 
 
   extendedDescription: '',

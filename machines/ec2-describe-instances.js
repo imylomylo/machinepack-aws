@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'EC2 describe instances',
+  friendlyName: 'Describe EC2 instances',
 
 
-  description: 'Describes one or more of your instances.',
+  description: 'Describe one or more of your instances.',
 
 
   extendedDescription: '',

@@ -1,10 +1,10 @@
 module.exports = {
 
 
-  friendlyName: 'ECS list tasks',
+  friendlyName: 'List ECS tasks',
 
 
-  description: 'Returns a list of tasks for a specified cluster. ',
+  description: 'Return a list of tasks for a specified cluster. ',
 
 
   extendedDescription: '',
