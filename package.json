@@ -1,6 +1,6 @@
 {
   "name": "machinepack-aws",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "SDK for working with the AWS api's",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
