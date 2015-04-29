@@ -30,7 +30,8 @@
       "ecs-stop-task",
       "ec2-describe-instances",
       "ecs-describe-container-instances",
-      "ecs-describe-tasks"
+      "ecs-describe-tasks",
+      "ecs-describe-task-definition"
     ],
     "testsUrl": "https://travis-ci.org/"
   },
