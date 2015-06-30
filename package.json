@@ -14,10 +14,10 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.1.17",
-    "machine": "^3.0.0"
+    "machine": "^10.3.1"
   },
   "devDependencies": {
-    "test-machinepack-mocha": "^0.2.2"
+    "test-machinepack-mocha": "^2.1.1"
   },
   "machinepack": {
     "friendlyName": "aws",
